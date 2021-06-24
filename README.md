@@ -1,11 +1,16 @@
-### Hi there, I'm Hiraku 👋
+### Hi there, I'm Hiraku 🐧
 
-- :computer: I code in C++ / Objective C / Python / PHP / Bash
+- 🌏 I'm from Taiwan.
+- :computer: I code in C++ / Objective-C / Python / PHP / Bash
+- 🔨 I like to reverse engineering stuffs
+- 🥰 I love Pokémon!
 
 ## I know a little about
 
 - System Adminitration (Linux)
 - Computer security
+- Block chain
+- Trading
 
 ## I can speak
 
