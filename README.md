@@ -7,7 +7,7 @@
 
 ## I know a little about
 
-- System Adminitration (Linux)
+- System Administration (Linux)
 - Computer security
 - Block chain
 - Trading
