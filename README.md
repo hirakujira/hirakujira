@@ -1,4 +1,4 @@
-### Hi there, I'm Hiraku 🐧
+# Hi there, I'm Hiraku 🐧
 
 - 🌏 I'm from Taiwan.
 - :computer: I code in C++ / Objective-C / Python / PHP / Bash
