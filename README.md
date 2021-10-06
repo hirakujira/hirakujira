@@ -3,7 +3,7 @@
 - 🌏 I'm from Taiwan.
 - :computer: I code in C++ / Objective-C / JavaScript / Python / PHP / Bash
 - 🔨 I like to reverse engineering stuffs
-- 🥺 I'm stupid.
+- 🥺 I'm stupid
 - 🥰 I love Pokémon!
 
 ## I know a little about
