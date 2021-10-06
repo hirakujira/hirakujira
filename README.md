@@ -8,10 +8,11 @@
 
 ## I know a little about
 
-- System Administration (Linux)
-- Computer security
-- Block chain
+- System administration (Linux)
+- Computer Security
+- Blockchain & DeFi
 - Trading
+- Design
 
 ## I can speak
 
