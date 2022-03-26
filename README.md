@@ -1,7 +1,7 @@
 # Hi there, I'm Hiraku 🐧
 
 - 🌏 I'm from Taiwan.
-- :computer: I code in C++ / Objective-C / JavaScript / Python / PHP / Bash
+- :computer: I code in C++ / Objective-C / JavaScript / TypeScript / Python / PHP / Bash / Solidity
 - 🔨 I like to reverse engineering stuffs
 - 🥺 I'm stupid
 - 🥰 I love Pokémon!
@@ -10,7 +10,7 @@
 
 - System administration (Linux)
 - Computer Security
-- Blockchain & DeFi
+- Blockchainl, DeFi and Web3
 - Trading
 - Design
 
