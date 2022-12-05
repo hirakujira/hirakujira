@@ -9,7 +9,8 @@
 - ✅ C / C++
 - ✅ Objective-C
 - ✅ JavaScript / TypeScript
-- ✅ Python / PHP
+- ✅ Python
+- ✅ PHP
 - ✅ Solidity 
 - ... and more
 
