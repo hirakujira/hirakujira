@@ -1,7 +1,7 @@
 # Hi there, I'm Hiraku 🐧
 
 - 🌏 I'm from Taiwan.
-- 🔨 I like to reverse engineering stuffs
+- 🔨 I like reverse engineering.
 - 🐧 I'm a penguin.
 - 🥰 I love Pokémon!
 
