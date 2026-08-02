@@ -30,6 +30,4 @@
   
 ## 📊 My stats
 
-![img](https://github-readme-stats.vercel.app/api?username=hirakujira&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
-
-![img](https://github-readme-stats.vercel.app/api/top-langs/?username=hirakujira&hide=HTML&show_icons=true&layout=compact&theme=radical)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=hirakujira&langs_count=5&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=hirakujira&langs_count=5&theme=dracula)
