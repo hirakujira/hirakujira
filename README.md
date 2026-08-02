@@ -30,4 +30,6 @@
   
 ## 📊 My stats
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=hirakujira&include_all_commits=true&theme=dracula)](https://github-stats-extended.vercel.app/api?username=hirakujira&include_all_commits=true&theme=dracula)
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=hirakujira&langs_count=5&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=hirakujira&langs_count=5&theme=dracula)
